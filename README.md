@@ -16,10 +16,10 @@
 - Automation
   
 
-## Current Goals
+## 当前目标
 - 提升编程能力
 - 做一些实际项目
 - 用技术解决真实问题
 
 ## 联系我们
-- Email: your@email.com
+- Email: 391363706@qq.com
