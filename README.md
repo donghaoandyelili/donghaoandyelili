@@ -22,13 +22,4 @@
 
 ---
 
-## 🧠 Current Direction
 
-```text
-Learning Path
-├─ Python automation
-├─ SQL & data processing
-├─ Git / GitHub workflow
-├─ Web development
-├─ Selenium & efficiency tooling
-└─ AI for practical business scenarios
