@@ -16,24 +16,8 @@
 
 <a id="cn"></a>
 
-## 中文
-
-### 个人简介
-
-我专注于以工程化方式解决真实问题，关注编程实践、自动化效率和 AI 应用落地。
-
-### 技术方向
-
-| 方向 | 描述 |
-| --- | --- |
-| 编程实践 | 用可运行代码解决真实问题，重视可维护性和交付结果。 |
-| 自动化效率 | 把重复工作流程化、脚本化，持续提升执行效率。 |
-| AI 应用探索 | 关注 AI 在开发与生产场景中的可落地价值。 |
-| 持续学习 | 保持长期学习节奏，迭代知识体系和工程方法。 |
-
 ### 技术轨迹
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Automation](https://img.shields.io/badge/Automation-Scripting-00d9ff?style=flat-square)
