@@ -101,25 +101,3 @@ I build practical software with a focus on real-world delivery, workflow automat
 ![GitHub Streak](https://streak-stats.demolab.com?user=tanchihao&theme=transparent&ring=00d9ff&fire=7cff85&currStreakLabel=c2d6e8&sideNums=c2d6e8&currStreakNum=f2f6fa&sideLabels=c2d6e8&dates=c2d6e8&hide_border=true)
 
 </div>
-
-<a id="quick-links"></a>
-
-## 快速入口
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-TANCHIHAO-181717?style=for-the-badge&logo=github)](https://github.com/tanchihao)
-[![Status](https://img.shields.io/badge/Service%20Status-online-1a7f37?style=for-the-badge&logo=statuspage&logoColor=white)](http://status.woaiwusaqi.cn/)
-
-</div>
-
-<a id="footer"></a>
-
-## Footer
-
-<div align="center">
-
-2026 © 董昊. All rights reserved.  
-[服务状态](http://status.woaiwusaqi.cn/) | [苏ICP备2025224440号](https://beian.miit.gov.cn/)
-
-</div>
