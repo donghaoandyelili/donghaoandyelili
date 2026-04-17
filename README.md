@@ -14,17 +14,6 @@
 
 > Learning by building. 把兴趣变成能力，把能力变成价值。
 
-<a id="toc"></a>
-
-## 目录 | Contents
-
-- [中文](#cn)
-- [English](#en)
-- [项目精选](#projects)
-- [GitHub 数据](#stats)
-- [快速入口](#quick-links)
-- [Footer](#footer)
-
 <a id="cn"></a>
 
 ## 中文
@@ -48,21 +37,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Automation](https://img.shields.io/badge/Automation-Scripting-00d9ff?style=flat-square)
-
-<a id="en"></a>
-
-## English
-
-### About Me
-
-I build practical software with a focus on real-world delivery, workflow automation, and applied AI.
-
-### Focus Areas
-
-- Programming that solves concrete problems
-- Automation for repetitive workflows
-- Practical AI integration
-- Continuous learning and iteration
 
 <a id="projects"></a>
 
